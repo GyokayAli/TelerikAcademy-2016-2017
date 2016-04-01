@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\09.Trapezoid\bin\Debug\09.Trapezoid.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\09.Trapezoid\bin\Debug\09.Trapezoid.pdb
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\09.Trapezoid\obj\Debug\09.Trapezoid.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\09.Trapezoid\obj\Debug\09.Trapezoid.pdb

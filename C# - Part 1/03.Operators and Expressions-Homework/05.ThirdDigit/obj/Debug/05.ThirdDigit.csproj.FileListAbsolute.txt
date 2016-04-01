@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\05.ThirdDigit\bin\Debug\05.ThirdDigit.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\05.ThirdDigit\bin\Debug\05.ThirdDigit.pdb
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\05.ThirdDigit\obj\Debug\05.ThirdDigit.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\05.ThirdDigit\obj\Debug\05.ThirdDigit.pdb

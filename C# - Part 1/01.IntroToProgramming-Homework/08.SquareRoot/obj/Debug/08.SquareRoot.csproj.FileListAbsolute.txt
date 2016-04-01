@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\01.IntroToProgramming-Homework\08.SquareRoot\bin\Debug\08.SquareRoot.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\01.IntroToProgramming-Homework\08.SquareRoot\bin\Debug\08.SquareRoot.pdb
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\01.IntroToProgramming-Homework\08.SquareRoot\obj\Debug\08.SquareRoot.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\01.IntroToProgramming-Homework\08.SquareRoot\obj\Debug\08.SquareRoot.pdb

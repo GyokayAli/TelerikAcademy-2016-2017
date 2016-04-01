@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\02.Data Types and Variables - Homework\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\02.Data Types and Variables - Homework\14.PrintASCIITable\bin\Debug\14.PrintASCIITable.pdb
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\02.Data Types and Variables - Homework\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\02.Data Types and Variables - Homework\14.PrintASCIITable\obj\Debug\14.PrintASCIITable.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\02.Data Types and Variables - Homework\07.QuotesString\bin\Debug\07.QuotesString.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\02.Data Types and Variables - Homework\07.QuotesString\bin\Debug\07.QuotesString.pdb
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\02.Data Types and Variables - Homework\07.QuotesString\obj\Debug\07.QuotesString.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\02.Data Types and Variables - Homework\07.QuotesString\obj\Debug\07.QuotesString.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\02.Data Types and Variables - Homework\07.QuotesString\obj\Debug\07.QuotesString.pdb

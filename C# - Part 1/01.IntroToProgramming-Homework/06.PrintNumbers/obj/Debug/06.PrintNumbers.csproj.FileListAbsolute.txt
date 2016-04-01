@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\01.IntroToProgramming-Homework\06.PrintNumbers\bin\Debug\06.PrintNumbers.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\01.IntroToProgramming-Homework\06.PrintNumbers\bin\Debug\06.PrintNumbers.pdb
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\01.IntroToProgramming-Homework\06.PrintNumbers\obj\Debug\06.PrintNumbers.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\01.IntroToProgramming-Homework\06.PrintNumbers\obj\Debug\06.PrintNumbers.pdb

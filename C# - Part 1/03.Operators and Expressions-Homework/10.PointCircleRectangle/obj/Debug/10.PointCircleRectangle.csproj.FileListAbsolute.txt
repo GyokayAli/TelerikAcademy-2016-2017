@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\10.PointCircleRectangle\bin\Debug\10.PointCircleRectangle.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\10.PointCircleRectangle\bin\Debug\10.PointCircleRectangle.pdb
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\10.PointCircleRectangle\obj\Debug\10.PointCircleRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\10.PointCircleRectangle\obj\Debug\10.PointCircleRectangle.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\10.PointCircleRectangle\obj\Debug\10.PointCircleRectangle.pdb

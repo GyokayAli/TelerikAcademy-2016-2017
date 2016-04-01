@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\07.PointInCircle\bin\Debug\07.PointInCircle.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\07.PointInCircle\bin\Debug\07.PointInCircle.pdb
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\07.PointInCircle\obj\Debug\07.PointInCircle.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\07.PointInCircle\obj\Debug\07.PointInCircle.exe
+C:\Users\Admin\Desktop\Telerik 2016-17\C# - Part 1\03.Operators and Expressions-Homework\07.PointInCircle\obj\Debug\07.PointInCircle.pdb
