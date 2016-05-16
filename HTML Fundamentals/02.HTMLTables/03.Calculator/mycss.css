@@ -1,0 +1,22 @@
+input {
+    text-align: right;
+    font-size: x-large;
+    font-weight: bold;
+    text-shadow: inherit;
+    color: aqua;
+    border: thick;
+    background-color: gray;
+}
+
+table, td {
+    background-color: gray;
+    border: 3px solid;
+    border-color: aqua;
+}
+
+td {
+    text-align: center;
+    color: aqua;
+    font-size: xx-large;
+    font-weight: bold;
+}
